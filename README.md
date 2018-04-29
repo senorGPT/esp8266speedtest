@@ -5,6 +5,7 @@ All my source code is documented for easy reading and implementation.
 
 The white LED indicates that the remote host server is being pinged, blue LED inicates that the response time is less than 50 MS, green LED inicates that the response time is greater than 50 and less than 100 MS, yellow LED inicates that the response time is greater than 10 and less than 200 MS, red LED inicates that the response time is greater than 200 MS.
 
+If all the LED's (excluding the white one) are blinking, it means that the ESP8266 could not establish a connection with the internet. Try checking your network settings or the software settings. Be sure to change the SSID and SSID password variables to match your network variables.
 
 # Hardware Required
 1. NodeMCU MicroController with ESP8266 WiFi Module
