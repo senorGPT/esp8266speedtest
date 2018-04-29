@@ -11,8 +11,8 @@
 // NTPClient timeClient(ntpUDP, NTP_ADDRESS, NTP_OFFSET, NTP_INTERVAL);
 
 // The Network SSID we want to connect to along with it's password
-const char *ssid = "HomeK";
-const char *password = "1818181881";
+const char *ssid = "SSID_NETWORK_NAME";
+const char *password = "SSID_NETWORK_PASSWORD";
 
 // The remote host that we will be PINGing
 const char *remote_host = "www.google.com";
