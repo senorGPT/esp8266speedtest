@@ -22,8 +22,12 @@ https://www.amazon.com/Makerfocus-ESP8266-ESP-12E-Internet-Development/dp/B01IK9
 <img src="https://image.ibb.co/jBawDc/esp8266speedtest_bb.png"/>
 
 
+# Circuit Picture
+<img src="https://image.ibb.co/cgrBDc/esp8266speedtest_sideways.png"/>
+
+
 # Pin map
-<img sr="https://image.ibb.co/e4DSKH/NODEMCU_DEVKIT_V1_0_PINMAP.png"/>
+<img src="https://image.ibb.co/e4DSKH/NODEMCU_DEVKIT_V1_0_PINMAP.png"/>
 
 
 # Libraries Used:
