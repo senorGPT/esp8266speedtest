@@ -40,3 +40,6 @@ ESP8266Wifi: Built-in
 # Pictures
 <img src="https://image.ibb.co/jrVApH/IMG_20180427_211552.jpg" />
 
+
+# Possible upgrade ideas
+Have a geo CDN such as Amazon CloudFront with a range of files from 1MB to 15MB, and test off those. (idea from <a src="https://www.reddit.com/r/dotnet/comments/1t5lky/looking_for_a_internet_speed_test_api_or_library/">Cheesekun<a/>
