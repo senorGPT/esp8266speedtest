@@ -3,12 +3,22 @@ Using the NodeMCU 1.0 V2 board equipped with an ESP8266 WiFi module I made a sim
 All my source code is documented for easy reading and implementation.
 
 
+The white LED indicates that the remote host server is being pinged, blue LED inicates that the response time is less than 50 MS, green LED inicates that the response time is greater than 50 and less than 100 MS, yellow LED inicates that the response time is greater than 10 and less than 200 MS, red LED inicates that the response time is greater than 200 MS.
 
-The white LED indicates that the remote host server is being pinged.
-The blue LED inicates that the response time is less than 50 MS.
-The green LED inicates that the response time is greater than 50 and less than 100 MS.
-The yellow LED inicates that the response time is greater than 10 and less than 200 MS.
-The red LED inicates that the response time is greater than 200 MS.
+
+# Hardware Required
+1. NodeMCU MicroController with ESP8266 WiFi Module
+2. Breadboard
+3. 12 Male-to-Male jumper wires
+4. 5 LEDs (white, blue, green, yellow, and red)
+5. 5 1k OHM resistors
+
+# Circuit Diagram
+<img src="https://image.ibb.co/jBawDc/esp8266speedtest_bb.png"/>
+
+
+# Pin map
+<img sr="https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/master/Documents/NODEMCU_DEVKIT_V1.0_PINMAP.png"/>
 
 
 # NodeMCU Purchase Link (non-affiliated)
