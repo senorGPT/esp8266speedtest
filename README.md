@@ -5,13 +5,9 @@ All my source code is documented for easy reading and implementation.
 
 
 The white LED indicates that the remote host server is being pinged.
-
 The blue LED inicates that the response time is less than 50 MS.
-
 The green LED inicates that the response time is greater than 50 and less than 100 MS.
-
 The yellow LED inicates that the response time is greater than 10 and less than 200 MS.
-
 The red LED inicates that the response time is greater than 200 MS.
 
 
