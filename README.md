@@ -13,16 +13,17 @@ The white LED indicates that the remote host server is being pinged, blue LED in
 4. 5 LEDs (white, blue, green, yellow, and red)
 5. 5 1k OHM resistors
 
+
+# NodeMCU Purchase Link (non-affiliated)
+https://www.amazon.com/Makerfocus-ESP8266-ESP-12E-Internet-Development/dp/B01IK9GEQG
+
+
 # Circuit Diagram
 <img src="https://image.ibb.co/jBawDc/esp8266speedtest_bb.png"/>
 
 
 # Pin map
-<img sr="https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/master/Documents/NODEMCU_DEVKIT_V1.0_PINMAP.png"/>
-
-
-# NodeMCU Purchase Link (non-affiliated)
-https://www.amazon.com/Makerfocus-ESP8266-ESP-12E-Internet-Development/dp/B01IK9GEQG
+<img sr="https://image.ibb.co/e4DSKH/NODEMCU_DEVKIT_V1_0_PINMAP.png"/>
 
 
 # Libraries Used:
