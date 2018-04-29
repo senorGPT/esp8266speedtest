@@ -2,6 +2,8 @@
 Using the NodeMCU 1.0 V2 board equipped with an ESP8266 WiFi module I made a simple speed test that ping's Google.
 All my source code is documented for easy reading and implementation.
 
+
+
 The white LED indicates that the remote host server is being pinged.
 
 The blue LED inicates that the response time is less than 50 MS.
